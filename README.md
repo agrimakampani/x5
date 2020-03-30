@@ -7,16 +7,23 @@ Members: Agrima Kampani(kampani@wisc.edu), Isaac Weber(iweber2@wisc.edu), James 
 Description:
 
 
-Problem: What problem does your program solve?
+Title: todo list
 
+Problem: As college students tend to take more than four courses per semester, they need a better system for them to know what assignments they should finish and what are the due dates for those assignments as well.
 
-Primary stakeholder: Who will be the primary user your program?
+Primary Stakeholders: students 
 
+Graphical User interface:
+-First, display a list of courses which the users are currently enrolled
+-Then the user can click the desired course icon to read the to do list for this course.
+-Inside the to do list, there will be nothing fancy or complicated graph but a list of straight forward bullet-points tasks that need to be done.
+ -the name of the assignment
+ -due date
 
-Graphical User interface: Revise and update the sketches of the user interface screens, menus, and options.
+Data Structure:
+-linked list
+----------------------------------------------------------------------------------------------------------------------------------------
 
-
-Data Structure: What type of ADT or data structures will be needed and used  by your program?
 
 
 Input Data File Format: Provide a sample input data file for each type of data needed by your program.
