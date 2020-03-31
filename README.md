@@ -25,10 +25,14 @@ Data Structure:
 
 
 
-Input Data File Format: Provide a sample input data file for each type of data needed by your program.
+Input Data File Format:
+-course name: xxxx
+-assignmet name: xxxx
+-due date: xx/xx/xx:xx xx
 
 
-Output Example: Provide an example image of the output possible from the program.  This example may be drawn, or created using any word or image editor program of your choice.
+Output Example:
+
 
 
 Milestones: Describe discrete points or independent units, where parts of the project's functionality can be completed and can be tested or demonstrated independently of the final overall program.  Organize or order your milestones so that you can complete the most independent parts first, and then build on those working parts or prototypes.  
