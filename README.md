@@ -36,6 +36,9 @@ Output Example:
 
 
 Milestones: Describe discrete points or independent units, where parts of the project's functionality can be completed and can be tested or demonstrated independently of the final overall program.  Organize or order your milestones so that you can complete the most independent parts first, and then build on those working parts or prototypes.  
+  - Finish implementing the data structure (back end) and be able to load data from a file into the data Structure
+  - Implement gui (front end) 
+  - tie the back end to the front end to make the app functional
 
 Assign Tasks: 
 James and Tony - Setting up the linked list data structure, including the ability for the user to make additions or subractions from the to-do list. This also includes a way to display the information when requested.
