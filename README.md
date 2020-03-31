@@ -29,3 +29,7 @@ Output Example: Provide an example image of the output possible from the program
 
 
 Milestones: Describe discrete points or independent units, where parts of the project's functionality can be completed and can be tested or demonstrated independently of the final overall program.  Organize or order your milestones so that you can complete the most independent parts first, and then build on those working parts or prototypes.  
+
+Assign Tasks: 
+James and Tony - Setting up the linked list data structure, including the ability for the user to make additions or subractions from the to-do list. This also includes a way to display the information when requested.
+Isaac and Agrima - Implementing the data structure into the GUI so that the user has an easy time using the to-do list. This will be done by using the input from the GUI as requests from the user, meaning that information can be displayed, hidden, added, or deleted.
