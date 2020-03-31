@@ -1,17 +1,13 @@
-Title: x5 Design Proposal 
+XTeam 155's x5 Design Proposal 
+
+XTeam Members: Agrima Kampani(kampani@wisc.edu), Isaac Weber(iweber2@wisc.edu), James Watson(jcwatson2@wisc.edu), Tony Zhou(zzhou366@wisc.edu)
 
 
-Members: Agrima Kampani(kampani@wisc.edu), Isaac Weber(iweber2@wisc.edu), James Watson(jcwatson2@wisc.edu), Tony Zhou(zzhou366@wisc.edu)
-
-
-Description:
-
-
-Title: todo list
+Title: Helpful Todo List
 
 Problem: As college students tend to take more than four courses per semester, they need a better system for them to know what assignments they should finish and what are the due dates for those assignments as well.
 
-Primary Stakeholders: students 
+Primary Stakeholders: Students looking for a good way to stay on top of their course work. 
 
 Graphical User interface:
 -First, display a list of courses which the users are currently enrolled
